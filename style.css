@@ -1,0 +1,95 @@
+body
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#mohammad{
+    font-size: 25px;
+}
+.li{
+    font-size: 20px;
+}
+#li1{
+    margin-left: 90px;
+}
+#homeimg{
+    border-radius: 50%;
+    height: 400px;
+    width: 310px;
+}
+#home {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#0a428b 0%, #2d7cf3 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    background: linear-gradient(#2d7cf3 0%, #0a428b 100%);
+    color: white;
+    line-height: 30px;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+.line {
+    height: 6px;
+    background-color: rgb(89, 208, 255);
+    width: 70%;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+.video{
+    border-style:double;
+    padding: 5px;
+}
+.article{
+    color:white;
+    font-size: 20px;
+    text-decoration: none;  
+}
+.article:visited{
+    color: white;
+}
+.article:hover{
+    color:yellow;
+    text-decoration: none;
+}
+
+
+input
+{
+    color:black;
+    font-size: 15px;
+    background: white;
+}
+.info:visited{
+    color: white;
+    text-decoration: none;
+}
+.info:hover{
+    text-decoration: none;
+}
